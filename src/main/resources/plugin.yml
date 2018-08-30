@@ -1,0 +1,5 @@
+name: QuickSand
+version: ${project.version}
+main: fightingsoul.main
+authors: [QuickSand]
+description: 1
