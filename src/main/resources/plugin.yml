@@ -3,3 +3,6 @@ version: ${project.version}
 main: fightingsoul.Main.main
 authors: [QuickSand]
 description: 1
+api-version: 1.13
+commands:
+  soul:

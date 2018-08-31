@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/fightingSoul.iml" filepath="$PROJECT_DIR$/fightingSoul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSand.iml" filepath="$PROJECT_DIR$/QuickSand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/main.iml" filepath="$PROJECT_DIR$/src/main/main.iml" />
     </modules>
   </component>
 </project>
