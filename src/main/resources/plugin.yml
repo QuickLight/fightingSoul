@@ -1,6 +1,8 @@
 name: FightingSoul
 version: ${project.version}
-main: fightingsoul.main.soulMain
+main: fightingsoul.Main.soulMain
 authors: [QuickSand]
 api-version: 1.13
 description: Test
+commands:
+  soul:
