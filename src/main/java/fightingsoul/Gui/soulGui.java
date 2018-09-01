@@ -9,6 +9,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 
 public class soulGui {
+
     public static void opengui(CommandSender sender) {
         Player player = (Player) sender;
         Inventory inventory = Bukkit.createInventory(player, 9, "§6§l斗魂系统");
